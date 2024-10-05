@@ -1,26 +1,51 @@
-- 👋 Hello! I'm Syed Zeeshan, a passionate web developer specializing in creating dynamic and responsive web applications.
-  
-- ## Skills and Technologies
-- **Frontend Development:** HTML, CSS, JavaScript, React.js, Node.js 
-- **Backend Integration:** API Integration
-- **Design & Styling:** Tailwind CSS, Material CSS
-- **Version Control:** Git, GitHub, VS Code
+# 👋 Hi, I'm Syed Zeeshan Mehdi
 
-- ## Goals
+### 🚀 Web Developer | React.js | JavaScript | Tailwind CSS | Node.js
 
-I'm continuously learning and growing in the field of web development. 
-My goal is to build innovative and user-centric web solutions while staying updated with the latest technologies.
+Welcome to my GitHub profile! I'm Syed Zeeshan Mehdi, a passionate web developer who enjoys creating responsive, dynamic, and user-friendly applications. With experience in both frontend and backend development, I am dedicated to building high-performance web applications with clean, efficient code.
 
-- ## Connect With Me
+---
 
-Feel free to explore my projects and connect with me through my GitHub profile:
+## 🔧 Technologies & Tools
 
-- [GitHub Profile](https://github.com/syed-zeeshan001)
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+- **Backend:** Node.js, Firebase, Strapi
+- **UI/UX:** Responsive Design, Material CSS, Tailwind CSS, React Icons
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira
+- **Other Tools:** API Integration, Redux (State Management)
 
-Thank you for visiting my profile!
+---
+
+## 📈 GitHub Stats
+
+![Syed Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syed-zeeshan001&show_icons=true&theme=radical)
+
+---
+
+## 🌱 What I’m Learning
+
+- Advanced React.js concepts
+- Node.js for backend development
+- API development and integration
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to work on new projects, contribute to open-source, and collaborate with other developers. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/syed-zeeshan-mehdi-611692249).
+
+---
+
+## 📫 How to Reach Me:
+
+- **Email:** syedzeeshanrizwi62053@gmail.com
+- **GitHub:** [syed-zeeshan001](https://github.com/syed-zeeshan001)
+- **LinkedIn:** [Syed Zeeshan Mehdi](https://www.linkedin.com/in/syed-zeeshan-mehdi-611692249)
+
+---
+
+Thanks for stopping by my profile! Let’s build something amazing together. 😊
 
 
-<!---
-syed-zeeshan001/syed-zeeshan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
